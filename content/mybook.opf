@@ -2,7 +2,7 @@
   <metadata>
     
     <dc:creator opf:file-as="Unknown, Author">Unknown Author</dc:creator>
-    <dc:title>My Untitled Book</dc:title>
+    <dc:title>OERPUB</dc:title>
     
     <dc:date opf:event="publication">2013-10-08</dc:date>
       <dc:language xmlns:xsi="http://www.idpf.org/2007/opf" xsi:type="dcterms:RFC4646">ca</dc:language>
